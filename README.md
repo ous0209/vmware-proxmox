@@ -1,8 +1,8 @@
 # vmware-proxmox
 
-| Résumé des coûts sur 3 ans  | Zabbix  | PRTG Network Monitor  |
-|-----------------------------|---------|-----------------------|
-| Licence initiale            | 0 €     | 1 600 €               |
-| Support annuel              | 4 500 € | Inclus                |
-| Coût total sur 3 ans        | 4 500 € | 1 600 €               |
+| Détail                                    | Coût unitaire | Quantité | Coût total |
+|-------------------------------------------|---------------|----------|------------|
+| Licence initiale VMware vSphere Standard  | 3 495 €       | 10       | 34 950 €   |
+| Support annuel VMware (2e et 3e années)   | 740 €         | 10 * 2   | 14 800 €   |
+| **Total VMware sur 3 ans**                |               |          | **49 750 €** |
 
