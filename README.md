@@ -1,14 +1,11 @@
 # vmware-proxmox
 
 
-| Critère                | Veeam                                               | Acronis                                           |
-|------------------------|------------------------------------------------------|---------------------------------------------------|
-| Coût                   | Licence basée sur le nombre de sockets/VMs           | Licence par dispositif, abonnement annuel         |
-| Facilité de Gestion    | Interface utilisateur intuitive, gestion centralisée | Interface conviviale, gestion centralisée         |
-| Fonctionnalités        | Sauvegarde, réplication, reprise après sinistre, intégration cloud | Sauvegarde, reprise après sinistre, protection contre les ransomwares |
-| Performance            | Haute performance, sauvegarde et restauration rapides | Haute performance, protection proactive contre les ransomwares |
-| Sécurité               | Chiffrement des données, protection avancée          | Protection avancée, protection contre les ransomwares |
-| Support et Communauté  | Support commercial solide, forte communauté          | Support commercial solide, communauté active      |
-| Restauration           | Granulaire (fichiers, applications) et complète      | Granulaire (fichiers, applications) et complète   |
-| Évolutivité            | Très évolutif, adapté pour les grandes infrastructures | Évolutif, adapté pour les moyennes et grandes infrastructures |
-| Compatibilité          | Large compatibilité avec différents systèmes et applications | Large compatibilité avec différents systèmes et applications |
+| Critère                        | Veeam                            | Acronis                        |
+|--------------------------------|----------------------------------|--------------------------------|
+| Licence initiale               | 1 250 € par socket               | 500 € par dispositif           |
+| Support annuel                 | Inclus pour la première année, 250 € par socket pour les années suivantes | Inclus dans l'abonnement annuel |
+| Coût initial pour 10 dispositifs | 12 500 €                       | 5 000 €                        |
+| Coût sur 3 ans                 | 5 000 € (support pour années 2 et 3) | 15 000 €                       |
+| Coût total sur 3 ans           | 17 500 €                        | 15 000 €                       |
+
