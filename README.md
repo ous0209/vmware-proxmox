@@ -5,7 +5,7 @@
 | **Phase 1 : Planification**                |        |        |                |
 | Réunion de lancement du projet             | 01/10  | 02/10  | 2              |
 | Analyse des besoins                        | 03/10  | 15/10  | 13             |
-| Définition des objectifs et du scope       | 16/10  | 20/10  | 5              |
+| Définition des objectifs     | 16/10  | 20/10  | 5              |
 | Sélection des outils et technologies       | 21/10  | 25/10  | 5              |
 | **Phase 2 : Virtualisation et Consolidation** |      |        |                |
 | Conception de l'architecture de virtualisation | 26/10 | 31/10 | 6              |
