@@ -40,3 +40,4 @@ gantt
     Réunion de clôture du projet                         : f1, after e4, 2d
     Documentation finale et rapport                      : f2, after f1, 7d
 
+
